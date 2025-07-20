@@ -1,8 +1,16 @@
-### Hi, I'm Kumari Puspita 👋
-- 🌱 Learning Frontend Development (HTML, CSS, JS)
-- 🚀 Exploring GitHub, open source, and mini projects
-- 💼 Preparing for Tech Skills
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kumari-puspita-choudhury-3b5953375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+# 👋 Hi there, I'm Kumari Puspita Choudhury!
 
-✨ “Code is poetry, and I’m writing my first lines.”
+🎓 Learning Frontend Development (HTML, CSS, JS)  
+🔍 Exploring GitHub, Open Source & Mini Projects  
+💡 Preparing for Tech Careers & Interviews  
+🔗 [Connect with me on LinkedIn]()
 
+---
+
+💻 I'm passionate about learning to code and building small creative projects.  
+📚 Currently working on improving my CSS and JavaScript skills.  
+🚀 Goal: Become a front-end developer and contribute to open source.
+
+---
+
+✨ _"Code is poetry, and I'm writing my first lines."_ ✨
