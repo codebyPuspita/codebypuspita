@@ -3,7 +3,7 @@
 🎓 Learning Frontend Development (HTML, CSS, JS)  
 🔍 Exploring GitHub, Open Source & Mini Projects  
 💡 Preparing for Tech Careers & Interviews  
-🔗 [Connect with me on LinkedIn]()
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/kumari-puspita-choudhury-3b5953375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
